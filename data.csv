@@ -1,0 +1,4 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+rohit,prasad,35,"a-356, rakshak road",new pune road,pune,Maharashtra,Male
+kushal,shrivastava,26,godrej 24,hinjewadi,pune,Maharashtra,Male
+aditi,jain,18,elements,Nashik road,Nashik,Maharashtra,Female
